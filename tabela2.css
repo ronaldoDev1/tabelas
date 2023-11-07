@@ -1,0 +1,42 @@
+table td, table th{
+    border: 1px solid #c9c3c3;
+    padding: 5px;
+    text-align: left;
+
+}
+table{
+    border-collapse: collapse;
+
+}
+.center{
+    text-align: center;
+}
+.cinza{
+    color: #afacac;
+    font-size: 20px;
+}
+
+#no{
+    border: 0cap;
+}
+
+.a{
+    font-size: 25px;
+    background-color: #7f96fd;
+    color: aliceblue;
+    text-align: center;
+}
+
+.b{
+    font-size: 25px;
+    background-color: #4b6cff;
+    color: aliceblue;
+    text-align: center;
+}
+
+.c{
+    font-size: 25px;
+    background-color: #1c45ff;
+    color: aliceblue;
+    text-align: center;
+}

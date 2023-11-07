@@ -1,0 +1,46 @@
+table td, table th{
+    border: 1px solid #c9c3c3;
+    padding: 5px;
+    text-align: left;
+
+}
+table{
+    border-collapse: collapse;
+
+}
+.center{
+    text-align: center;
+}
+.cinza{
+background-color: #ccc;
+border-bottom: 0cap;
+text-align: center;
+}
+.cinza1{
+    background-color: #ccc;
+}
+
+.centralizado{
+    background-color: #ccc;
+    text-align: center;
+    border-top: 0cap;
+}
+
+.no{
+    border-right: 1px solid #c9c3c3;
+    border-left: 1px solid #c9c3c3;
+    background-color: #ccc;
+}
+
+.cor{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.red{
+    font-size: 15px;
+    background-color: #a13f3f;
+    color: aliceblue;
+    text-align: center;
+}
